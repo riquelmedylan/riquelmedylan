@@ -1,24 +1,18 @@
-###  👋 Hola, me llamo Dylan Riquelme
+###  
 
-<!--
+  <h1>👋 Hola, soy Dylan Riquelme</h1> 
+  <img src="https://i.pinimg.com/originals/df/00/bc/df00bc130a79bce2362e40f5e5fbab94.gif">
+  <p>Me considero un desarrollador entusiasta con una gran capacidad para ser autodidacta. Siempre capaz de compartir conocimientos con quien lo necesite. Siempre estoy interesado en aprender nuevas tecnologías.</p>
+<img src="https://c.tenor.com/7kSw8fVwXrkAAAAS/el-momo-nashe.gif">
+  
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+  
 
 <div align="center">
   <a href="https://github.com/riquelmedylan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquelmedylan&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmedylan&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
+    </div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
