@@ -1,10 +1,8 @@
 ###  
 
   <h1>👋 Hola, soy Dylan Riquelme</h1> 
-  <img src="https://i.pinimg.com/originals/df/00/bc/df00bc130a79bce2362e40f5e5fbab94.gif">
   <p>Me considero un desarrollador entusiasta con una gran capacidad para ser autodidacta. Siempre capaz de compartir conocimientos con quien lo necesite. Siempre estoy interesado en aprender nuevas tecnologías.</p>
-<img src="https://c.tenor.com/7kSw8fVwXrkAAAAS/el-momo-nashe.gif">
-  
+
 
   
 
@@ -31,5 +29,5 @@
   <a href="https://www.linkedin.com/in/dylan-riquelme-039074212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+ <img src="https://i.pinimg.com/originals/df/00/bc/df00bc130a79bce2362e40f5e5fbab94.gif">
 </div>
